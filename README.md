@@ -1,7 +1,7 @@
 #LSTSVR+: Least square twin support vector regression with privileged information
 
 
-This code corresponds to the paper:  Anuradha Kumari, M. Tanveer. LSTSVR+: Least square twin support vector regression with privileged information. Engineering Applications of Artificial Intelligence.  
+This code corresponds to the paper:  Anuradha Kumari, M. Tanveer (2024). LSTSVR+: Least square twin support vector regression with privileged information. Engineering Applications of Artificial Intelligence.   https://doi.org/10.1016/j.engappai.2024.108964
 
 If you are using our code, please give proper citation to the above given paper.
 
